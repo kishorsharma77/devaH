@@ -3708,11 +3708,83 @@ From the accounts of vedic tradition the bhRgu-s were the foremost of the RShi-s
     
     <item>
       <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/jalam/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/jalam/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/jalam/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/lokAntaram/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/lokAntaram/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/lokAntaram/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/misc-devas/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/misc-devas/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/misc-devas/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/rogAH/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/rogAH/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/rogaH/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/rudraH/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/rudraH/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/rudraH/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/shaktiH/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/skandaH/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/skandaH/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/skandaH/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
       <link>https://vvasuki.github.io/saMskAra/mantraH/somaH/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vvasuki.github.io/saMskAra/mantraH/somaH/random/</guid>
       <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/somaH/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+    </item>
+    
+    <item>
+      <title>अन्धचितिः</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/vAk/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/vAk/random/</guid>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/vAk/&#34;) || cleanedUrl.includes(&#34;/sangrahAH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -5750,6 +5822,25 @@ From the accounts of vedic tradition the bhRgu-s were the foremost of the RShi-s
       <guid>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/ApastambaH/pramANAni/dharma-sUtram/tattvAni/kAma/</guid>
       <description>कामासक्तौ पापसम्भवो ऽन्यत्रोक्तः।
 भोक्ता च धर्माविप्रतिषिद्धान्भोगान् २२ एवमुभौ लोका वभिजयति २३</description>
+    </item>
+    
+    <item>
+      <title>कार्त्तिकेयं सुरश्रेष्ठं</title>
+      <link>https://vvasuki.github.io/saMskAra/mantraH/skandaH/padyam/kAshmIraka-stavaH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/saMskAra/mantraH/skandaH/padyam/kAshmIraka-stavaH/</guid>
+      <description>कार्तिकेयं सुरश्रेष्ठं
+षड्-वक्त्रं कुक्कुटाङ्कितम् ।
+घण्ठा-शक्तिधरं शुभ्रम्
+अक्षमालाधरं तथा ।
+द्विनेत्रं चातकारूढं
+बालरूपं शशिप्रभम् ॥
+हिमाद्रि-श्वेतं द्विभुजं भुजङ्गैर्
+वृतं निविष्टं शिखिनश् च पृष्ठे ।
+नगेन्द्र-कन्या-प्रिय-पुत्रम् आद्यं
+हृदि स्मरे ऽभीष्टप्रदं कुमारम् ॥
+ॐ वं कां कुमाराय नमः ॥</description>
     </item>
     
     <item>
