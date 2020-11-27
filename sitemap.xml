@@ -1139,6 +1139,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/shAkalA/aitareya_brAhmaNam/panchikA_1/adhyAya_1_khaNDaH_1-6/</loc>
   </url>
   
@@ -1651,10 +1655,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantraH/meta/images/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/misc-devas/images/</loc>
   </url>
   
@@ -1672,6 +1672,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/viShNuH/images/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/images/</loc>
   </url>
   
   <url>
@@ -1887,7 +1891,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantraH/meta/sAma/paravastu-sampradAyaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/sAma/paravastu-sampradAyaH/</loc>
   </url>
   
   <url>
@@ -2127,6 +2131,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/images/shrauta-yAga/vedI/</loc>
   </url>
   
@@ -2191,7 +2199,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahAntaram/</loc>
   </url>
   
   <url>
@@ -2203,7 +2211,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantraH/meta/sAma/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/sAma/</loc>
   </url>
   
   <url>
@@ -2747,7 +2755,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/havyaka-hADugaLu/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahAntaram/havyaka-hADugaLu/</loc>
   </url>
   
   <url>
@@ -2799,6 +2807,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/correctness/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/tattvam/creation/</loc>
   </url>
   
@@ -2824,6 +2836,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/history/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/history/</loc>
   </url>
   
   <url>
@@ -2880,6 +2896,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/tattvam/devaH/labeling/polytheism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/post-veda/</loc>
   </url>
   
   <url>
@@ -4580,7 +4600,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantraH/meta/sAma/paravastu-sampradAyaH/paravastu-sAma-paramparA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/sAma/paravastu-sampradAyaH/paravastu-sAma-paramparA/</loc>
   </url>
   
   <url>
@@ -5104,7 +5124,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/bAla-shlokAH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahAntaram/bAla-shlokAH/</loc>
   </url>
   
   <url>
@@ -5964,6 +5984,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/shAkhA-spardhA/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/bodhAyanaH/pramANAni/gRhyam/tattvAni/vedaH/</loc>
   </url>
   
@@ -6057,6 +6081,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/angAni/sharIram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/shAkhAH/</loc>
   </url>
   
   <url>
@@ -6465,6 +6493,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/lokAntaram/Rk/syonA_pRthivI/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/meta/srotaH/</loc>
   </url>
   
   <url>
@@ -7368,7 +7400,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/havyaka-hADugaLu/toTTalu-hADu/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahAntaram/havyaka-hADugaLu/toTTalu-hADu/</loc>
   </url>
   
 </urlset>
