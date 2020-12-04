@@ -1047,7 +1047,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/iShTy-avasheShaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/iShTy-avasheShaH/</loc>
   </url>
   
   <url>
@@ -1103,10 +1103,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/angAni/</loc>
   </url>
   
@@ -1124,6 +1120,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/bodhAyanaH/pramANAni/shrautam/angAni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/</loc>
   </url>
   
   <url>
@@ -1311,7 +1311,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/</loc>
   </url>
   
   <url>
@@ -1507,10 +1507,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/kriyAH/</loc>
   </url>
   
@@ -1528,6 +1524,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/bodhAyanaH/pramANAni/gRhyam/karmANi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/</loc>
   </url>
   
   <url>
@@ -1723,15 +1723,15 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/ApastambaH/pramANAni/dharma-sUtram/tattvAni/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/ApastambaH/pramANAni/shrautam/tattvAni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/tattvam/</loc>
   </url>
   
   <url>
@@ -1971,7 +1971,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/prAyashcittam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/prAyashcittam/</loc>
   </url>
   
   <url>
@@ -2247,7 +2247,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/soma-saMsthA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/soma-saMsthA/</loc>
   </url>
   
   <url>
@@ -2303,6 +2303,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/shAkalA/saMhitA/03/</loc>
   </url>
   
@@ -2352,10 +2356,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/shAkalA/saMhitA/09/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/09/</loc>
   </url>
   
   <url>
@@ -2423,19 +2423,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/10/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/2/2/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/2/</loc>
   </url>
   
   <url>
@@ -2484,10 +2476,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/2/3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/3/</loc>
   </url>
   
   <url>
@@ -2543,10 +2531,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/4/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/bhaTTa-bhAskara-bhAShyam/1/4/</loc>
   </url>
   
@@ -2584,6 +2568,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/saMhitA/6/4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/1/5/</loc>
   </url>
   
   <url>
@@ -2639,10 +2627,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/6/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/bhaTTa-bhAskara-bhAShyam/1/6/</loc>
   </url>
   
@@ -2683,10 +2667,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/7/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/bhaTTa-bhAskara-bhAShyam/1/7/</loc>
   </url>
   
@@ -2719,10 +2699,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/8/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/bhaTTa-bhAskara-bhAShyam/1/8/</loc>
   </url>
   
@@ -2736,10 +2712,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/saMhitA/1/8/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/9/</loc>
   </url>
   
   <url>
@@ -2968,7 +2940,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/axNayAstomIyA-prashaMsA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/axNayAstomIyA-prashaMsA/</loc>
   </url>
   
   <url>
@@ -2980,7 +2952,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/agni-varaNam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/agni-varaNam/</loc>
   </url>
   
   <url>
@@ -3064,15 +3036,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/agnyAdheya-kAlaH/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/agni-upasthAnam/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/ApastambaH/pramANAni/shrautam/angAni/agni-upasthAnam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/agni-upasthAnam/</loc>
   </url>
   
   <url>
@@ -3224,11 +3192,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/anvAhArya-stutiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/anvAhArya-stutiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/apaH-prayaNayati/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/apaH-prayaNayati/</loc>
   </url>
   
   <url>
@@ -3328,7 +3296,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/aruNa-ketuka-chayane_charyA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/aruNa-ketuka-chayane_charyA/</loc>
   </url>
   
   <url>
@@ -3352,7 +3320,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/prAyashcittam/avakIrNI/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/prAyashcittam/avakIrNI/</loc>
   </url>
   
   <url>
@@ -3452,11 +3420,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/Achamanam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/angAni/manaH/Achamanam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/general/angAni/manaH/Achamanam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/Achamanam/</loc>
   </url>
   
   <url>
@@ -3512,7 +3480,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/Apo-vA-idam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/06/29_Apo_vA_idam/</loc>
   </url>
   
   <url>
@@ -3812,7 +3780,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/Rtvig-varaNam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/Rtvig-varaNam/</loc>
   </url>
   
   <url>
@@ -3840,7 +3808,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/ojosi-mAhattvam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/ojosi-mAhattvam/</loc>
   </url>
   
   <url>
@@ -3928,7 +3896,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/prAyashcittam/kUShmANDam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/prAyashcittam/kUShmANDam/</loc>
   </url>
   
   <url>
@@ -4020,7 +3988,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/iShTy-avasheShaH/gArmuta-prajAkAmeShTiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/iShTy-avasheShaH/gArmuta-prajAkAmeShTiH/</loc>
   </url>
   
   <url>
@@ -4116,7 +4084,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/soma-saMsthA/Chando-vaishiShTyam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/soma-saMsthA/Chando-vaishiShTyam/</loc>
   </url>
   
   <url>
@@ -4332,7 +4300,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/dIxA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/dIxA/</loc>
   </url>
   
   <url>
@@ -4348,7 +4316,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/prAyashcittam/duShparigrahaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/prAyashcittam/duShparigrahaH/</loc>
   </url>
   
   <url>
@@ -4448,11 +4416,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/naxatra-devAH/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/naxatriya-prajApatiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/naxatriya-prajApatiH/</loc>
   </url>
   
   <url>
@@ -4552,7 +4516,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/niyata-yajJNa-prashaMsA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/niyata-yajJNa-prashaMsA/</loc>
   </url>
   
   <url>
@@ -4600,7 +4564,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/pancha-mahA-yajJNaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/pancha-mahA-yajJNaH/</loc>
   </url>
   
   <url>
@@ -4648,7 +4612,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/paridhi-AghAra-nidhAnam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/saMhitA/2/6/paridhi-AghAra-nidhAnam/</loc>
   </url>
   
   <url>
@@ -4752,11 +4716,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/puNya-bhUmiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/puNya-bhUmiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/puNya-naxatram/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/puNya-naxatram/</loc>
   </url>
   
   <url>
@@ -4788,7 +4752,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/puruShamedhaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/puruShamedhaH/</loc>
   </url>
   
   <url>
@@ -5164,7 +5128,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/bahiH-paridhir_haviH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/saMhitA/2/6/bahiH-paridhir_haviH/</loc>
   </url>
   
   <url>
@@ -5192,7 +5156,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/brahma-yajJNaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/brahma-yajJNaH/</loc>
   </url>
   
   <url>
@@ -5208,7 +5172,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/brahmaNA-tvA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/brahmaNA-tvA/</loc>
   </url>
   
   <url>
@@ -5488,10 +5452,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/muhUrta-kalanam/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/tags/%E0%A4%AE%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
   </url>
   
@@ -5588,10 +5548,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/yajJNopavItam/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpaH/sUtram/taittirIyam/ApastambaH/pramANAni/gRhyam/angAni/yajJNOpavItam/</loc>
   </url>
   
@@ -5600,15 +5556,15 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/yajJNopavItam/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/indraH/Rk/yata_indra/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/indraH/paravastu-saama/yata_indra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/yat_puNyam/</loc>
   </url>
   
   <url>
@@ -5696,7 +5652,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/brAhmaNa-vandanam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/brAhmaNa-vandanam/</loc>
   </url>
   
   <url>
@@ -5732,7 +5688,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/rajasvalA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/rajasvalA/</loc>
   </url>
   
   <url>
@@ -5816,7 +5772,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/angAni/vara-prashaMsA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/angAni/vara-prashaMsA/</loc>
   </url>
   
   <url>
@@ -5940,11 +5896,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/vijitIShTiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/vijitIShTiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/vidhi-shraddhA/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/tattvam/vidhi-shraddhA/</loc>
   </url>
   
   <url>
@@ -6116,7 +6072,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/abhichAraH/shatru-bAdhana-agnIShTiH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/abhichAraH/shatru-bAdhana-agnIShTiH/</loc>
   </url>
   
   <url>
@@ -6292,7 +6248,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/tattvam/veda-sAraH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/05/veda-sAraH/</loc>
   </url>
   
   <url>
@@ -6316,7 +6272,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/sandhyA-vandanam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/sandhyA-vandanam/</loc>
   </url>
   
   <url>
@@ -6516,11 +6472,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/soma-saMsthA/somakrayaH/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/soma-saMsthA/somakrayaH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/kalpaH/brAhmaNam/taittirIyam/kriyA/soma-saMsthA/somayAge_asura-vanchanam/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/kriyA/soma-saMsthA/somayAge_asura-vanchanam/</loc>
   </url>
   
   <url>
@@ -6700,11 +6656,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/01/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/1/01/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/1/01/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/01_naxatra-devAH/</loc>
   </url>
   
   <url>
@@ -6780,11 +6736,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/10/02/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/06/02/</loc>
   </url>
   
   <url>
@@ -6792,7 +6744,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/10/11/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/06/11/</loc>
   </url>
   
   <url>
@@ -6844,7 +6796,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/03/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/1/5/03_muhUrta-kalanam/</loc>
   </url>
   
   <url>
@@ -6892,7 +6844,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/10/08/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/AraNyakam/06/08/</loc>
   </url>
   
   <url>
@@ -7193,6 +7145,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/saMhitA/7/1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/sangrahaH/taittirIyA/brAhmaNam/3/5/02/yat_puNyam/</loc>
   </url>
   
   <url>
