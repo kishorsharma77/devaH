@@ -199,6 +199,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/meta/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/indraH/meta/</loc>
   </url>
   
@@ -511,6 +515,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/padyam/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/skandaH/padyam/</loc>
   </url>
   
@@ -647,11 +655,19 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/MT_lekhAH/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/shrautam/MT_lekhAH/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/prAyashcittam/MT_lekhAH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/pUjA/MT_lekhAH/</loc>
   </url>
   
   <url>
@@ -692,6 +708,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/meta/MT_lekhAH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/meta/MT_lekhAH/</loc>
   </url>
   
   <url>
@@ -812,6 +832,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/AgamaH/shAktaH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/</loc>
   </url>
   
   <url>
@@ -988,6 +1012,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/social-cultivation/dharma/guna-dharma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/meta/MT_lekhAH/2006-07-31_avyakta-origin-mythology/</loc>
   </url>
   
   <url>
@@ -1203,6 +1231,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/angAni/dravyam/MT_lekhAH/2006-09-05_iconography-of-varahamihira/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/angAni/dravyam/MT_lekhAH/2004-08-18_implements-of-the-shrauta-ritual/</loc>
   </url>
   
@@ -1275,6 +1307,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/meta/MT_lekhAH/2006-07-20_kubjika-and-the-panchavaktra-mahadeva/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/tattvam/darshanam/labeling/</loc>
   </url>
   
@@ -1291,7 +1327,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/saMskAra/mantraH/rudraH/meta/MT_lekhAH/2007-06-24_a-local-pantheon-of-mallanna/</loc>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/pUjA/MT_lekhAH/2006-08-05_mahavaishnava-krama/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/meta/MT_lekhAH/2007-06-24_a-local-pantheon-of-mallanna/</loc>
   </url>
   
   <url>
@@ -1544,6 +1584,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shAktaH/MT_lekhAH/2006-07-23_shrividya-beyond-the-panchadashi-and-classical-phase/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/rudraH/meta/MT_lekhAH/2005-04-19_shulini/</loc>
   </url>
   
@@ -1553,6 +1597,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-06-23_siddhanta-tantrics-and-the-mainstream-brahminical-path/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/MT_lekhAH/2006-08-06_simplified-homa-vidhanam/</loc>
   </url>
   
   <url>
@@ -1604,6 +1652,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-08-25_sundaranatha-tirumulars-lineage/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/tags/</loc>
   </url>
   
@@ -1625,6 +1677,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/gaNapatiH/meta/MT_lekhAH/2004-09-19_the-4-incarnations-of-ganapati/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-07-14_the-akshara-purusha-mandala-of-the-purva-srotas/</loc>
   </url>
   
   <url>
@@ -1652,6 +1708,14 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/rudraH/meta/MT_lekhAH/2006-08-07_the-circle-of-matri-s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/meta/MT_lekhAH/2006-08-17_the-circle-of-yakshini-s/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/viShNuH/meta/MT_lekhAH/2005-08-27_the-dark-hero-of-the-yadus/</loc>
   </url>
   
@@ -1661,6 +1725,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/skandaH/meta/MT_lekhAH/2004-09-12_the-deadly-foe-destroying-yoga-of-brahmanya-deva/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/meta/MT_lekhAH/2006-08-31_the-deva-revanta-mythology-iconography-history-and-ritualism/</loc>
   </url>
   
   <url>
@@ -1728,11 +1796,19 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-08-25_the-mythology-of-tirumular/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/shrautam/MT_lekhAH/2004-11-21_the-obscene-formulae-in-the-ashvamedha/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/AgamaH/gANapatyam/MT_lekhAH/2005-09-07_the-odd-cambodian-inscription-of-vinayaka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-07-13_the-pancha-vaktra-chakra-of-the-purva-srotas/</loc>
   </url>
   
   <url>
@@ -1765,6 +1841,14 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/shrautam/MT_lekhAH/2004-11-21_the-sacrifice-of-the-horse-in-the-ashvamedha/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/rudraH/meta/MT_lekhAH/2006-07-23_the-samkshipta-bhairava-mantra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/kalpe_svamatam/kriyAH/homaH/shrautam/MT_lekhAH/2006-07-16_the-sarpasattra-vedic-and-aitihasic/</loc>
   </url>
   
   <url>
@@ -1805,6 +1889,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/shaktiH/meta/MT_lekhAH/2006-03-09_the-tilottama-prayoga/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/2006-08-15_the-trayodashi-rite-of-the-katha-dikshita-s/</loc>
   </url>
   
   <url>
@@ -3180,6 +3268,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/saMskAra/mantraH/shAstA/padyam/muktakAni/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/saMskAra/mantraH/skandaH/padyam/muktakAni/</loc>
   </url>
   
@@ -3565,6 +3657,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/meta/shaiva-tantra-MT/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/shaivaH/atharva-shIropaniShat/</loc>
   </url>
   
   <url>
@@ -4105,6 +4201,10 @@
   
   <url>
     <loc>https://vvasuki.github.io/saMskAra/sangrahAntaram/havyaka-hADugaLu/toTTalu-hADu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/saMskAra/AgamaH/meta/MT_lekhAH/2006-07-29_tantric-upanishad-s-and-their-role-in-hindu-thought/</loc>
   </url>
   
 </urlset>
