@@ -9,7 +9,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.72.0" />
+    <meta name="generator" content="Hugo 0.83.1" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -36,7 +36,7 @@
     
     let baseURL = "https:\/\/vvasuki.github.io\/saMskAra\/";
     let basePath = "/" + baseURL.split("/").slice(3).join("/");
-    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/saMskAra\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/saMskAra\/edit\/content\/\u0022,\u0022mainSections\u0022:[\u0022mantrah\u0022],\u0022mainsections\u0022:[\u0022mantrah\u0022]}");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/saMskAra\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022fullsearchurl\u0022:\u0022\/full_search\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/saMskAra\/edit\/content\/\u0022,\u0022mainSections\u0022:[\u0022mantrah\u0022],\u0022mainsections\u0022:[\u0022mantrah\u0022]}");
     let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022footernav\u0022:\u0022top_bar\u0022,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022,\u0022topnav\u0022:\u0022top_bar\u0022,\u0022unicode_script\u0022:\u0022devanagari\u0022}}]");
     let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022संस्कारः\u0022,\u0022url\u0022:\u0022..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022वेदाः\u0022,\u0022url\u0022:\u0022..\/vedAH\/\u0022},{\u0022title\u0022:\u0022पुराणम्\u0022,\u0022url\u0022:\u0022..\/purANam\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvyam\/\u0022},{\u0022title\u0022:\u0022ಕನ್ನಡ\u0022,\u0022url\u0022:\u0022..\/kannaDa\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022त्रिपिटकम्\u0022,\u0022url\u0022:\u0022..\/tipiTaka\/\u0022},{\u0022title\u0022:\u0022पाळयः\u0022,\u0022url\u0022:\u0022..\/pALi\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022Tags\u0022,\u0022url\u0022:\u0022\/tags\/\u0022},{\u0022title\u0022:\u0022Categories\u0022,\u0022url\u0022:\u0022\/categories\/\u0022}],\u0022title\u0022:\u0022प्रकीर्णम्\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022भागाः\u0022},\u0022top_bar\u0022:[{\u0022title\u0022:\u0022म\\u003ci class=\\\u0022fas fa-random\\\u0022\\u003e\\u003c\/i\\u003e\u0022,\u0022url\u0022:\u0022\/mantraH\/random\/mantraH\/\u0022},{\u0022title\u0022:\u0022स\\u003ci class=\\\u0022fas fa-random\\\u0022\\u003e\\u003c\/i\\u003e\u0022,\u0022url\u0022:\u0022\/mantraH\/random\/sAma\/\u0022}]}");
     let autocompletePageUrl = "\/saMskAra\/data\/pages.tsv";
@@ -106,10 +106,10 @@
           </a>
         </div>
         <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
-          <form action="">
+          <form action="search">
             <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
           </form>
-          <a href=""  class="btn btn-default">Full<i class="btn fas fa-search "></i></a>
+          <a href="/full_search"  class="btn btn-default">Full<i class="btn fas fa-search "></i></a>
           ✍
           <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
             <option value="devanagari" selected="">स</option>
@@ -410,8 +410,8 @@
 हिनस्मिनाहं त्वां वृक्ष किन्तु मुञ्चामि जन्मतः। ।<br>
 इति पादपम् उपस्थाय। रक्षासूत्रेण मूलमन्त्रेणवेष्टयित्वा। पलल रजनीचूर्ण<br>
 करम्भलाजचरुगव्यैः &ldquo;ओंसर्वेभ्यःभूतेभ्यःनमः&rdquo; इति भूतबलिं दत्वा। स्वप्नाधिपति मन्त्रेण<br>
-पूर्ववत् हुत्वा। अग्निमुद्वास्य। सवेदवाद्य घोषं स्वप्नार्थं&rdquo;<br>
-ॐ ह्रीं नमः स्वप्नाधिपतये सुस्वप्नं मम कुरु स्वाहा&rdquo; इति मन्त्रम् अष्टोत्तर शतवारम्<br>
+पूर्ववत् हुत्वा। अग्निमुद्वास्य। सवेदवाद्य घोषं स्वप्नार्थं&quot;<br>
+ॐ ह्रीं नमः स्वप्नाधिपतये सुस्वप्नं मम कुरु स्वाहा&quot; इति मन्त्रम् अष्टोत्तर शतवारम्<br>
 जपित्वा। आचार्यः दर्भशय्यायां शायीत। स्वप्ने दारौ प्रज्वलिते प्रातः एव<br>
 आचार्यःस्नात्वा। दारुसङ्ग्रहणं विधिवत् कुर्यात्। अदर्शने दुस्वप्न दर्शने चकृत्वा<br>
 शान्तिहोमम्। ततः गुरुः सुमुहूर्तेवृक्षम्पश्यन् यक्षाः पिशाचाः इति गाथां<br>
@@ -660,7 +660,7 @@
 सूक्तैः सम्प्रोक्ष्य। गोघृतेन सर्वत बहून् दीपान् उद्दीप्य। कालागरुप्रभृत धूपद्रव्यैः सर्वतः<br>
 धूपयित्वा। दूर्वाक्षत सुधाचूर्णैः धाम सलङ्कृत्य। ततः अपराङ्घ समये, गुरु<br>
 बिम्बस्य &ldquo;मानादिन्यूनातिरेक शान्त्यर्थं शान्ति होमं करिष्ये&rdquo; इति सङ्कल्प्य। पुण्याहम<br>
-वाचयित्वा। विधिवत् अग्निं संस्कृत्य। साक्षतैः शमीपल्लवैः &quot; ओम्भूस्वाहा&rdquo;<br>
+वाचयित्वा। विधिवत् अग्निं संस्कृत्य। साक्षतैः शमीपल्लवैः &quot; ओम्भूस्वाहा&quot;<br>
 &ldquo;ओम्भुवस्वाहा&rdquo;  , &ldquo;ओं सुवःस्वाहा&rdquo; , &ldquo;ओं महःस्वाहा&rdquo; , &ldquo;ओं जनःस्वाहा&rdquo; , &ldquo;ओं<br>
 तपःस्वाहा&rdquo; , &ldquo;ओं सत्यंस्वाहा&rdquo; , इति प्रत्येकं शतमाहुतीः चरुणा नृसूक्तेन षोडशाहुतीः<br>
 च, &ldquo;ओं षौं नमः परायपरमेष्ट्यात्मने स्वाहा&rdquo; , &ldquo;ओं यां नमः परायपुरुषात्मने</p>
@@ -726,7 +726,7 @@
 भोक्त्रे यष्टव्यदेवानामात्मने परमात्मने।<br>
 सन्निधत्स्व चिरं देव प्रतिमायां हिताय नः।<br>
 स्वागतं देवदेवेश विश्वरूप नमोस्तुते।</p>
-<p>शुद्धोऽपि त्वदधिष्ठाने शुद्धिङ्कुर्म क्षमस्व ताम्। ।&rdquo;<br>
+<p>शुद्धोऽपि त्वदधिष्ठाने शुद्धिङ्कुर्म क्षमस्व ताम्। ।&quot;<br>
 पुण्याहं वाचयित्वा। बिम्बशुध्यर्थं धान्यपीठे ससूत्रकूर्च पल्लवपिधानं गोघृतापूरितं कुम्भं<br>
 विन्यस्य। तस्मिन् द्विषट्काक्षरविद्यया देवमवाह्य अभ्यर्च्य। तेन बिम्बं मूलमन्त्रेण<br>
 संस्नाप्य। ततः बिम्बं हरिद्रामलकादि चूर्णैः उद्वत्र्य। पुरुषसूक्तेन उष्णोदकेन<br>
@@ -790,8 +790,8 @@
 हुत्वा। ततः &ldquo;ओं वास्तुनाथाय स्वाहा&rdquo; इति सहस्रं शम्यपामार्ग खादिर समिद्बिः आज्येन<br>
 प्रत्येकं, चरुणा नृसूक्तेन षोडशाहुतीश्च हुत्वा। तदनु &ldquo;ओम् अंशुमालिने स्वाहा&rdquo; &ldquo;ओं</p>
 <p>झषध्वजायस्वाहा&rdquo;  ओं कुमारायस्वाहा&rdquo; &ldquo;ओं विनायकाय स्वाहा&rdquo; ओम् अश्विनीदेवताभ्यां<br>
-स्वाहा&rdquo; &ldquo;ओं चन्द्रमसे स्वाहा&rdquo;  ओं दुर्गायैस्वाहा , ओं सप्तमातृभ्यःस्वाहा &quot; &ldquo;ओं स्थाणवे<br>
-स्वाहा&rdquo; ओं विष्णवे स्वाहा&rdquo; &ldquo;ओं ब्रह्मणे स्वाहा&rdquo; इति चरुणा आज्येन च, सकृत् सकृत्<br>
+स्वाहा&quot; &ldquo;ओं चन्द्रमसे स्वाहा&rdquo;  ओं दुर्गायैस्वाहा , ओं सप्तमातृभ्यःस्वाहा &quot; &ldquo;ओं स्थाणवे<br>
+स्वाहा&rdquo; ओं विष्णवे स्वाहा&quot; &ldquo;ओं ब्रह्मणे स्वाहा&rdquo; इति चरुणा आज्येन च, सकृत् सकृत्<br>
 हुत्वा।  &quot; इन्द्रादिदेवेभ्यः क्षेत्रपालाय च नमोन्तैःस्वस्व मन्त्रैः बलिन्दत्वा।<br>
 वास्तुनाथमुद्वासयेत्।<br>
 अनर्चिते वास्तुदेवे कृतं कर्म आसुरं भवेत्।<br>
@@ -852,7 +852,7 @@
 हुत्वा। अवशिष्टाज्येनस्नपन द्रव्याणि संसिच्य। कलश स्थापन वेधिका मध्ये कोष्टेषु कुम्भ<br>
 स्थानेषु मध्यमं कुम्भं घृतेन आपूर्य। विष्णु गायत्र्या विन्यस्य। तत्पूर्व कुम्भम् उष्णोदकयुतं<br>
 तदाग्नेय माणिक्य पद्मराग नीलवज्र पुष्य प्रवाळ मौक्तिक मरकत वैडूर्य रत्नपूरितं कुम्भं।</p>
-<p>घृतकुम्भस्य याम्ये तथा विध दाडिम चूतामलक बिल्व नारिकेल पनस मातुल&rdquo; फलैः<br>
+<p>घृतकुम्भस्य याम्ये तथा विध दाडिम चूतामलक बिल्व नारिकेल पनस मातुल&quot; फलैः<br>
 भिन्नैर्युतं कुम्भं । घृतस्य नैऋत दिशि सुवर्ण रजत ताम्र सीस त्रपु कम्स्य अयस्सारैः<br>
 प्रत्येकं निष्फमात्रैः पूरितं कुम्भं घृतस्य पश्चिम दिशि रजनी सूर्यवर्तिनी सहदेवि शिरीषा<br>
 सदाभद्रा कुशाग्रामिद मार्जन द्रव्यैः पृथक् मुष्टिमात्रैर्युतं कुम्भं। घृतस्य मारुत दिशि<br>
@@ -863,7 +863,7 @@
 ब्रह्मस्थान स्थितं कुम्भ नवकस्य प्राच्यां दिशि तुळसी पद्म दूर्वाक्षत श्यामाक विष्णु पर्णी<br>
 बिल्वपत्रैः मुष्टि मात्रैः चन्दनेन फलमात्रेण च युतं पाद्य कुम्भं, तद्दक्षिणे सिद्धार्थ अक्षत<br>
 कुशाग्र फल तिल पुष्पैः पृथक् मुष्टि मात्रैः त्रिनिष्फ मात्र चन्दनेन च युतम् अघ्र्यकुम्भं।<br>
-तत्पश्चिमे तक्कुोल चम्पक मुकुल कर्पूर जाति फलैर्येलालव&rdquo; त्वक्चन्दन पुष्पैः पलार्ध<br>
+तत्पश्चिमे तक्कुोल चम्पक मुकुल कर्पूर जाति फलैर्येलालव&quot; त्वक्चन्दन पुष्पैः पलार्ध<br>
 प्रमाणैःयुतम् उपस्पर्शन कुम्भं। तदुत्तरे पञ्चगव्यैर्युतं कुम्भं<br>
 ( पञ्चगव्यानि तु स्नपने</p>
 <p>दधि द्विगुणमाघारात् पीयूषं त्रिगुणं ततः।<br>
@@ -1830,7 +1830,7 @@
     </a>
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
-      Built on 2021 May 13 21:52:51 UTC. (<a href="http://google.com/search?q=21%3a52%3a51%20UTC to IST">IST</a>)
+      Built on 2021 May 13 22:09:51 UTC. (<a href="http://google.com/search?q=22%3a09%3a51%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
