@@ -2223,19 +2223,6 @@ kR^ishNa, the hero of the yadus married jAMbavati, the daughter of the bear-king
     </item>
     
     <item>
-      <title>Search Results</title>
-      <link>https://vvasuki.github.io/saMskAra/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vvasuki.github.io/saMskAra/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
-    
-    <item>
       <title>Self cultivation</title>
       <link>https://vvasuki.github.io/saMskAra/kalpe_svamatam/meta/self-cultivation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
