@@ -1541,7 +1541,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/AdityaH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/AdityaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/AdityaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1550,7 +1550,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/agniH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/agniH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/agniH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1559,7 +1559,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/indraH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/indraH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/indraH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1568,7 +1568,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/jalam/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/jalam/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/jalam/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1577,7 +1577,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/lokAntaram/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/lokAntaram/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/lokAntaram/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1586,7 +1586,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/marutaH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/marutaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/marutaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1595,7 +1595,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/misc-devas/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/misc-devas/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/misc-devas/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1604,7 +1604,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/rogAH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/rogaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/rogaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1613,7 +1613,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/rudraH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/rudraH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/rudraH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1622,7 +1622,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/shaktiH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/shaktiH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/shaktiH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1631,7 +1631,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/skandaH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/skandaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/skandaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1640,7 +1640,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/somaH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/somaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/somaH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1649,7 +1649,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/vAk/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/vAk/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/vAk/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
@@ -1658,7 +1658,7 @@ Here again it is mentioned with the battle axe, armor and gauntlets: ye a~njiShu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishvAsa.github.io/devaH/hindukaH/viShNuH/random/</guid>
-      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/mantraH/viShNuH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
+      <description> function getSelectionWeight(url) { var cleanedUrl = url.replace(&#34;//&#34;, &#34;/&#34;); let pageParams = module_dir_tree.getPageParams(cleanedUrl); if (!cleanedUrl.startsWith(&#34;/hindukaH/viShNuH/&#34;) || cleanedUrl.includes(&#34;/meta/&#34;) || pageParams.logicalName == &#34;_index.md&#34;) { return 0; } if (!pageParams || !pageParams.hasOwnProperty(&#34;practice_weight&#34;)) { return 1; } return pageParams.practice_weight; } module_main.default.redirectToRandomPage(getSelectionWeight, document.getElementsByName(&#34;manualRedirectionDiv&#34;));   </description>
     </item>
     
     <item>
